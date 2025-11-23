@@ -1,0 +1,7 @@
+{
+  "name": "NeuroClassify: Teachable Machine",
+  "description": "A multi-model image classification platform. Train CNNs in the browser or leverage Gemini 2.5 for advanced reasoning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
